@@ -14,3 +14,4 @@ Definitions adapted from http://www.bom.gov.au/climate/dwo/IDCJDW0000.shtml
 Data source: http://www.bom.gov.au/climate/dwo/ and http://www.bom.gov.au/climate/data.
 
 Copyright Commonwealth of Australia 2010, Bureau of Meteorology.
+<img width="1377" alt="Screenshot 2021-06-24 at 6 04 06 PM" src="https://user-images.githubusercontent.com/85325393/123263518-ac33ba00-d516-11eb-8efb-eb1fe0f13a19.png">
